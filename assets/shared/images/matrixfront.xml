@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="matrixfront.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg front0000" x="2" y="2" width="2456" height="873"/>
+	<SubTexture name="bg front0001" x="2" y="2" width="2456" height="873"/>
+	<SubTexture name="bg front0002" x="2" y="2" width="2456" height="873"/>
+	<SubTexture name="bg front0003" x="2460" y="2" width="2456" height="873"/>
+	<SubTexture name="bg front0004" x="4918" y="2" width="2456" height="873"/>
+	<SubTexture name="bg front0005" x="2" y="877" width="2456" height="873"/>
+	<SubTexture name="bg front0006" x="2460" y="877" width="2456" height="873"/>
+	<SubTexture name="bg front0007" x="4918" y="877" width="2456" height="873"/>
+	<SubTexture name="bg front0008" x="4918" y="877" width="2456" height="873"/>
+	<SubTexture name="bg front0009" x="2" y="1752" width="2456" height="873"/>
+	<SubTexture name="bg front0010" x="2" y="1752" width="2456" height="873"/>
+	<SubTexture name="bg front0011" x="2" y="1752" width="2456" height="873"/>
+	<SubTexture name="bg front0012" x="2460" y="1752" width="2456" height="873"/>
+	<SubTexture name="bg front0013" x="2460" y="1752" width="2456" height="873"/>
+	<SubTexture name="bg front0014" x="4918" y="1752" width="2456" height="873"/>
+	<SubTexture name="bg front0015" x="2" y="2627" width="2456" height="873"/>
+	<SubTexture name="bg front0016" x="2460" y="2627" width="2456" height="873"/>
+	<SubTexture name="bg front0017" x="4918" y="2627" width="2456" height="873"/>
+	<SubTexture name="bg front0018" x="2" y="3502" width="2456" height="873"/>
+</TextureAtlas>

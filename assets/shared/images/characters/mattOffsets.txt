@@ -1,0 +1,6 @@
+idle 0 -40
+singUP -11 -30
+singRIGHT 12 -37
+singLEFT -33 -34
+singDOWN -15 -36
+snap 208 98

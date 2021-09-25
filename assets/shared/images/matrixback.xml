@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="matrixback.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg back0000" x="2" y="2" width="2832" height="1728"/>
+	<SubTexture name="bg back0001" x="2" y="2" width="2832" height="1728"/>
+	<SubTexture name="bg back0002" x="2" y="2" width="2832" height="1728"/>
+	<SubTexture name="bg back0003" x="2836" y="2" width="2832" height="1728"/>
+	<SubTexture name="bg back0004" x="2836" y="2" width="2832" height="1728"/>
+	<SubTexture name="bg back0005" x="2836" y="2" width="2832" height="1728"/>
+	<SubTexture name="bg back0006" x="2" y="1732" width="2832" height="1728"/>
+	<SubTexture name="bg back0007" x="2" y="1732" width="2832" height="1728"/>
+	<SubTexture name="bg back0008" x="2" y="1732" width="2832" height="1728"/>
+	<SubTexture name="bg back0009" x="2836" y="1732" width="2832" height="1728"/>
+	<SubTexture name="bg back0010" x="2" y="3462" width="2832" height="1728"/>
+	<SubTexture name="bg back0011" x="2" y="3462" width="2832" height="1728"/>
+	<SubTexture name="bg back0012" x="2836" y="3462" width="2832" height="1728"/>
+	<SubTexture name="bg back0013" x="2" y="5192" width="2832" height="1728"/>
+	<SubTexture name="bg back0014" x="2836" y="5192" width="2832" height="1728"/>
+	<SubTexture name="bg back0015" x="2836" y="5192" width="2832" height="1728"/>
+	<SubTexture name="bg back0016" x="2" y="6922" width="2832" height="1728"/>
+	<SubTexture name="bg back0017" x="2" y="6922" width="2832" height="1728"/>
+	<SubTexture name="bg back0018" x="2836" y="6922" width="2832" height="1728"/>
+</TextureAtlas>

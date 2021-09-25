@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg assets.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg back0000" x="2" y="2" width="2008" height="1503"/>
+	<SubTexture name="bg back0001" x="2" y="2" width="2008" height="1503"/>
+	<SubTexture name="bg back0002" x="2" y="2" width="2008" height="1503"/>
+	<SubTexture name="bg back0003" x="2012" y="2" width="2008" height="1503"/>
+	<SubTexture name="bg back0004" x="2012" y="2" width="2008" height="1503"/>
+	<SubTexture name="bg back0005" x="4022" y="2" width="2008" height="1503"/>
+	<SubTexture name="bg back0006" x="4022" y="2" width="2008" height="1503"/>
+	<SubTexture name="bg back0007" x="6032" y="2" width="2008" height="1503"/>
+	<SubTexture name="bg back0008" x="2" y="1507" width="2008" height="1503"/>
+	<SubTexture name="bg back0009" x="2012" y="1507" width="2008" height="1503"/>
+	<SubTexture name="bg back0010" x="4022" y="1507" width="2008" height="1503"/>
+	<SubTexture name="bg back0011" x="6032" y="1507" width="2008" height="1503"/>
+	<SubTexture name="bg back0012" x="2" y="3012" width="2008" height="1503"/>
+	<SubTexture name="bg back0013" x="2012" y="3012" width="2008" height="1503"/>
+	<SubTexture name="bg back0014" x="4022" y="3012" width="2008" height="1503"/>
+	<SubTexture name="bg back0015" x="6032" y="3012" width="2008" height="1503"/>
+	<SubTexture name="bg back0016" x="2" y="4517" width="2008" height="1503"/>
+	<SubTexture name="bg back0017" x="2012" y="4517" width="2008" height="1503"/>
+	<SubTexture name="bg back0018" x="2012" y="4517" width="2008" height="1503"/>
+</TextureAtlas>
