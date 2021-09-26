@@ -36,7 +36,7 @@ class Stage
 					curStage = 'matrix';
 					camZoom = 0.7;
 
-					var bg:FlxSprite = new FlxSprite(-860, -600);
+					var bg:FlxSprite = new FlxSprite(-880, -600);
 
 					bg.frames = Paths.getSparrowAtlas('bg_assets');
 					bg.animation.addByPrefix('idle', "bg back", 24, true);
